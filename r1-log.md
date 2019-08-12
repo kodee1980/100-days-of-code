@@ -14,3 +14,6 @@ Started work on a website for the local Under 13's Football League, hoping to ge
 ### R1D3
 Continued work on the football site, found and organised all of the images and logos for the page. Started on the Main Page.
 Didn't get as much done today as I would have liked, felling a bit under the weather. Hopefully can be more productive tomorrow.
+
+### R!D4
+Completed a dropdown menu after playing around trying to create an animated hamburger menu that I had problems with. Resorted to a plain dropdown until I can make the other version work.
