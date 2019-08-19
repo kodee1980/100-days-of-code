@@ -21,3 +21,12 @@ Completed a dropdown menu after playing around trying to create an animated hamb
 ### R1D5
 Registration and Signup Pages are created (no backend yet still have to work that out). All pages are linking properly.
 
+### R1D6
+Missed a couple of days caught up doing other things which I'm disappointed about. Although I began the Backend section of Colt's Web Developer Boot Camp so it wasn't completely unproductive.
+
+### R1D7
+Setup GOORM IDE and MongoDB and played around with running a database from the Bootcamp Lessons
+
+### R1D8
+More of the Bootcamp also found some good sources of ideas for various Web Apps and other things to build to help learn coding skills, will start some of these projects soon.
+
