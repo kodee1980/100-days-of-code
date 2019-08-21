@@ -30,3 +30,8 @@ Setup GOORM IDE and MongoDB and played around with running a database from the B
 ### R1D8
 More of the Bootcamp also found some good sources of ideas for various Web Apps and other things to build to help learn coding skills, will start some of these projects soon.
 
+### R1D9 
+Working on the Bootcamp using Node working on GoormIDE and MongoDB.
+
+### R1D10
+Still working on the same stuff as above, starting to work on building simple apps using the above tools.
