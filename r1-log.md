@@ -35,3 +35,9 @@ Working on the Bootcamp using Node working on GoormIDE and MongoDB.
 
 ### R1D10
 Still working on the same stuff as above, starting to work on building simple apps using the above tools.
+
+### R1D11
+Spent time on Github putting together my Cookbox. Learnt how to create a Wiki for a Github Repository and learnt github markdown methods by creating a Wiki Page about them. Other areas of the Cookbook have a list of apps to attempt to code as well as programming languages and other areas that I would like to learn. Hopefully it becomes a useful source of coding related cheatsheets, snippets and act as a journal documenting my coding journey.
+
+### R1D12
+Continuing Colt's Boot camp currently at 67% complete. Using Node.js and NPM to create simple apps.
